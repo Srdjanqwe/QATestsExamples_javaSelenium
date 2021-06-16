@@ -11,6 +11,6 @@ public class ProbnaKlasaTest extends BaseTest
     @Test
     public void proba()
     {
-        
+
     }
 }
